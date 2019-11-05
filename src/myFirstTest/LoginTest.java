@@ -15,7 +15,7 @@ public class LoginTest {
 	   	 //Creating an instance of driver, to launch browser
 	   	 WebDriver browser = new ChromeDriver();
 	   	 
-	   	 //to open the faacebook login page
+	   	 //to open the faacebook login page and signin
 	   	 browser.get("https://www.facebook.com/");
 	    
 	   	 //to maximize the browser
